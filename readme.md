@@ -1,3 +1,3 @@
-# About this site
+# Heng Ma's Blog
 
-This is a testing site for my personal use. 
+Subjects include technology, documentation, developer marketing, and hifi
