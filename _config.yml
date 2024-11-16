@@ -1,0 +1,19 @@
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+# Basic site settings
+locale: "en-US"
+title: "Heng Ma's Blog"
+description: "Heng Ma's Blog"
+baseurl: ""  # if your site is in a subdirectory, put it here
+url: "https://hengm3467.github.io"
+
+# Theme settings
+# skin: "/assets/css/skins/default.css"  # or light.css, dark.css
+
+# Required plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate 
